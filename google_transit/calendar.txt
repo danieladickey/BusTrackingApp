@@ -1,0 +1,10 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+Spring_Monday - Friday,1,1,1,1,1,0,0,20210103,20210507
+Fall_Monday - Friday,1,1,1,1,1,0,0,20200831,20210102
+Spring_Saturday,0,0,0,0,0,1,0,20210103,20210507
+Summer_Saturday,0,0,0,0,0,1,0,20210510,20210828
+Fall_Saturday,0,0,0,0,0,1,0,20200831,20210102
+Summer_Monday - Friday (Summer - USU Holiday),1,1,1,1,1,0,0,20210510,20210828
+No Service (Sunday - Major Holidays),0,0,0,0,0,0,0,20210102,20210102
+Christmas Eve - New Years Eve,0,0,0,0,0,0,0,20210102,20210102
+Cache Valley Cruise IN Parade,0,0,0,0,0,0,0,20210102,20210102

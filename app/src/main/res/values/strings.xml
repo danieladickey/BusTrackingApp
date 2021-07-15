@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cache Valley Buses</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGFuaWVsYWRpY2tleSIsImEiOiJja241YThvMnYwMjZ5Mm5wYzY5dGxicndoIn0.7sRGJWYIcwW5bkzYCPMM8g</string>
+</resources>
